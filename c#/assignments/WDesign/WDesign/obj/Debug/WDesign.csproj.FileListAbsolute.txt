@@ -1,0 +1,8 @@
+E:\semester two\c#\assignments\WDesign\WDesign\bin\Debug\WDesign.exe.config
+E:\semester two\c#\assignments\WDesign\WDesign\bin\Debug\WDesign.exe
+E:\semester two\c#\assignments\WDesign\WDesign\bin\Debug\WDesign.pdb
+E:\semester two\c#\assignments\WDesign\WDesign\obj\Debug\WDesign.Form1.resources
+E:\semester two\c#\assignments\WDesign\WDesign\obj\Debug\WDesign.Properties.Resources.resources
+E:\semester two\c#\assignments\WDesign\WDesign\obj\Debug\WDesign.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\WDesign\WDesign\obj\Debug\WDesign.exe
+E:\semester two\c#\assignments\WDesign\WDesign\obj\Debug\WDesign.pdb

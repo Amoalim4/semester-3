@@ -1,0 +1,9 @@
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\bin\Debug\ConvertionBinaryDecimal.exe.config
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\bin\Debug\ConvertionBinaryDecimal.exe
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\bin\Debug\ConvertionBinaryDecimal.pdb
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\obj\Debug\ConvertionBinaryDecimal.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\obj\Debug\ConvertionBinaryDecimal.Form1.resources
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\obj\Debug\ConvertionBinaryDecimal.Properties.Resources.resources
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\obj\Debug\ConvertionBinaryDecimal.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\obj\Debug\ConvertionBinaryDecimal.exe
+E:\semester two\c#\assignments\windows\ConvertionBinaryDecimal\ConvertionBinaryDecimal\obj\Debug\ConvertionBinaryDecimal.pdb

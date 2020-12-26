@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\CAmathprameters\CAmathprameters\bin\Debug\CAmathprameters.exe.config
+E:\semester two\c#\assignments\CAmathprameters\CAmathprameters\obj\Debug\CAmathprameters.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\CAmathprameters\CAmathprameters\bin\Debug\CAmathprameters.exe
+E:\semester two\c#\assignments\CAmathprameters\CAmathprameters\bin\Debug\CAmathprameters.pdb
+E:\semester two\c#\assignments\CAmathprameters\CAmathprameters\obj\Debug\CAmathprameters.exe
+E:\semester two\c#\assignments\CAmathprameters\CAmathprameters\obj\Debug\CAmathprameters.pdb

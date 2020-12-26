@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\Console\UCT\UCT\bin\Debug\UCT.exe.config
+E:\semester two\c#\assignments\Console\UCT\UCT\bin\Debug\UCT.exe
+E:\semester two\c#\assignments\Console\UCT\UCT\bin\Debug\UCT.pdb
+E:\semester two\c#\assignments\Console\UCT\UCT\obj\Debug\UCT.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Console\UCT\UCT\obj\Debug\UCT.exe
+E:\semester two\c#\assignments\Console\UCT\UCT\obj\Debug\UCT.pdb

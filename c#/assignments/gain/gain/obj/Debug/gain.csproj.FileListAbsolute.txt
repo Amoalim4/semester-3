@@ -1,0 +1,9 @@
+E:\semester two\c#\assignments\gain\gain\bin\Debug\gain.exe.config
+E:\semester two\c#\assignments\gain\gain\bin\Debug\gain.exe
+E:\semester two\c#\assignments\gain\gain\bin\Debug\gain.pdb
+E:\semester two\c#\assignments\gain\gain\obj\Debug\gain.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\gain\gain\obj\Debug\gain.Form1.resources
+E:\semester two\c#\assignments\gain\gain\obj\Debug\gain.Properties.Resources.resources
+E:\semester two\c#\assignments\gain\gain\obj\Debug\gain.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\gain\gain\obj\Debug\gain.exe
+E:\semester two\c#\assignments\gain\gain\obj\Debug\gain.pdb

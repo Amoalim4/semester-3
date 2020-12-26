@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\invoice\invoice\bin\Debug\invoice.exe.config
+E:\semester two\c#\assignments\invoice\invoice\bin\Debug\invoice.exe
+E:\semester two\c#\assignments\invoice\invoice\bin\Debug\invoice.pdb
+E:\semester two\c#\assignments\invoice\invoice\obj\Debug\invoice.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\invoice\invoice\obj\Debug\invoice.exe
+E:\semester two\c#\assignments\invoice\invoice\obj\Debug\invoice.pdb

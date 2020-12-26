@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\Console\joseph's_problem\joseph's_problem\bin\Debug\joseph's_problem.exe.config
+E:\semester two\c#\assignments\Console\joseph's_problem\joseph's_problem\bin\Debug\joseph's_problem.exe
+E:\semester two\c#\assignments\Console\joseph's_problem\joseph's_problem\bin\Debug\joseph's_problem.pdb
+E:\semester two\c#\assignments\Console\joseph's_problem\joseph's_problem\obj\Debug\joseph's_problem.exe
+E:\semester two\c#\assignments\Console\joseph's_problem\joseph's_problem\obj\Debug\joseph's_problem.pdb
+E:\semester two\c#\assignments\Console\Joseph's_problem\joseph's_problem\obj\Debug\joseph's_problem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\bin\Debug\Ay-maano Walls.exe.config
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\bin\Debug\Ay-maano Walls.exe
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\bin\Debug\Ay-maano Walls.pdb
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay-maano Walls.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay_maano_Walls.Form1.resources
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay_maano_Walls.frmregistration.resources
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay_maano_Walls.Properties.Resources.resources
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay-maano Walls.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay-maano Walls.exe
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay-maano Walls.pdb
+E:\semester two\c#\assignments\Ay-maano Walls\Ay-maano Walls\obj\Debug\Ay_maano_Walls.frminvoces.resources

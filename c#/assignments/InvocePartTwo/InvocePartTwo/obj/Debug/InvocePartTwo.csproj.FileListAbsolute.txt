@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\InvocePartTwo\InvocePartTwo\bin\Debug\InvocePartTwo.exe.config
+E:\semester two\c#\assignments\InvocePartTwo\InvocePartTwo\bin\Debug\InvocePartTwo.exe
+E:\semester two\c#\assignments\InvocePartTwo\InvocePartTwo\bin\Debug\InvocePartTwo.pdb
+E:\semester two\c#\assignments\InvocePartTwo\InvocePartTwo\obj\Debug\InvocePartTwo.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\InvocePartTwo\InvocePartTwo\obj\Debug\InvocePartTwo.exe
+E:\semester two\c#\assignments\InvocePartTwo\InvocePartTwo\obj\Debug\InvocePartTwo.pdb

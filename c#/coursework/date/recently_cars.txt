@@ -1,0 +1,4 @@
+Car : Tesla
+Model : md4
+Color : black
+Speed : 250Km / h

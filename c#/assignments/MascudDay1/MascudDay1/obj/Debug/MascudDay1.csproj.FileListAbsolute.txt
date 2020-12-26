@@ -1,0 +1,9 @@
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\bin\Debug\MascudDay1.exe.config
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\bin\Debug\MascudDay1.exe
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\bin\Debug\MascudDay1.pdb
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\obj\Debug\MascudDay1.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\obj\Debug\MascudDay1.Form1.resources
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\obj\Debug\MascudDay1.Properties.Resources.resources
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\obj\Debug\MascudDay1.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\obj\Debug\MascudDay1.exe
+E:\semester two\c#\assignments\MascudDay1\MascudDay1\obj\Debug\MascudDay1.pdb

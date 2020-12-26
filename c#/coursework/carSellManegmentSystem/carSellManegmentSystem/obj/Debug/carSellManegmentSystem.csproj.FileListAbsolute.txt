@@ -1,0 +1,12 @@
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\bin\Debug\carSellManegmentSystem.exe.config
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\bin\Debug\carSellManegmentSystem.exe
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\bin\Debug\carSellManegmentSystem.pdb
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.csprojResolveAssemblyReference.cache
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.Form1.resources
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.Properties.Resources.resources
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.csproj.GenerateResource.Cache
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.exe
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.pdb
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.mainpage.resources
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.Newcustomer.resources
+E:\semester two\c#\coursework\carSellManegmentSystem\carSellManegmentSystem\obj\Debug\carSellManegmentSystem.List_customerD.resources

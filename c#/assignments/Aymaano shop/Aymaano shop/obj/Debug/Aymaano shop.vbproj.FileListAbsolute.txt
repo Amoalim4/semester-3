@@ -1,0 +1,20 @@
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.exe.config
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano_shop.Form1.resources
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano_shop.Resources.resources
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.vbproj.GenerateResource.Cache
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.exe
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.pdb
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.xml
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.exe
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.xml
+D:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.pdb
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.exe.config
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.exe
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.xml
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.pdb
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.exe
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.pdb
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\bin\Debug\Aymaano shop.xml
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano_shop.Form1.resources
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano_shop.Resources.resources
+E:\semester two\c#\assignments\Aymaano shop\Aymaano shop\obj\Debug\Aymaano shop.vbproj.GenerateResource.Cache

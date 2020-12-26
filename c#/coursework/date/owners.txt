@@ -1,0 +1,7 @@
+Name      : hamham
+Age       : 20
+Gender    : Male
+Telphone  : 7764461
+share     : 99 % 
+Acc No    : 789121
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

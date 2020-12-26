@@ -1,0 +1,9 @@
+E:\semester two\c#\assignments\savetofile\savetofile\bin\Debug\savetofile.exe.config
+E:\semester two\c#\assignments\savetofile\savetofile\bin\Debug\savetofile.exe
+E:\semester two\c#\assignments\savetofile\savetofile\bin\Debug\savetofile.pdb
+E:\semester two\c#\assignments\savetofile\savetofile\obj\Debug\savetofile.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\savetofile\savetofile\obj\Debug\savetofile.Form1.resources
+E:\semester two\c#\assignments\savetofile\savetofile\obj\Debug\savetofile.Properties.Resources.resources
+E:\semester two\c#\assignments\savetofile\savetofile\obj\Debug\savetofile.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\savetofile\savetofile\obj\Debug\savetofile.exe
+E:\semester two\c#\assignments\savetofile\savetofile\obj\Debug\savetofile.pdb

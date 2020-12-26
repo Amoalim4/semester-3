@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\CAlaptopclasses\CAlaptopclasses\bin\Debug\CAlaptopclasses.exe.config
+E:\semester two\c#\assignments\CAlaptopclasses\CAlaptopclasses\bin\Debug\CAlaptopclasses.exe
+E:\semester two\c#\assignments\CAlaptopclasses\CAlaptopclasses\bin\Debug\CAlaptopclasses.pdb
+E:\semester two\c#\assignments\CAlaptopclasses\CAlaptopclasses\obj\Debug\CAlaptopclasses.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\CAlaptopclasses\CAlaptopclasses\obj\Debug\CAlaptopclasses.exe
+E:\semester two\c#\assignments\CAlaptopclasses\CAlaptopclasses\obj\Debug\CAlaptopclasses.pdb

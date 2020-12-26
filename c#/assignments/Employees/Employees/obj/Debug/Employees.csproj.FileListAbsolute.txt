@@ -1,0 +1,20 @@
+E:\semester two\c#\assignments\Employees\Employees\bin\Debug\Employees.exe.config
+E:\semester two\c#\assignments\Employees\Employees\bin\Debug\Employees.exe
+E:\semester two\c#\assignments\Employees\Employees\bin\Debug\Employees.pdb
+E:\semester two\c#\assignments\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Employees\Employees\obj\Debug\Employees.Form1.resources
+E:\semester two\c#\assignments\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+E:\semester two\c#\assignments\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\Employees\Employees\obj\Debug\Employees.exe
+E:\semester two\c#\assignments\Employees\Employees\obj\Debug\Employees.pdb
+E:\semester two\c#\assignments\Employees\Employees\obj\Debug\Employees.printout.resources
+E:\C#\Employees\Employees\bin\Debug\Employees.exe.config
+E:\C#\Employees\Employees\obj\Debug\Employees.exe
+E:\C#\Employees\Employees\obj\Debug\Employees.pdb
+E:\C#\Employees\Employees\bin\Debug\Employees.exe
+E:\C#\Employees\Employees\bin\Debug\Employees.pdb
+E:\C#\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+E:\C#\Employees\Employees\obj\Debug\Employees.Form1.resources
+E:\C#\Employees\Employees\obj\Debug\Employees.printout.resources
+E:\C#\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+E:\C#\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.Cache

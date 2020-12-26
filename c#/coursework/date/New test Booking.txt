@@ -1,0 +1,30 @@
+Date                            :02-Dec-20 11:35:18 AM
+ ------- Customer -------------
+Name        : hamed
+Age         : 39
+Gender      : Male
+Address     : s;oxq0d
+Tell        : iewia
+Passport No : ask.wepdp
+License No     : 535333 
+-------- Car ------------
+Car name       : md3 
+Car model      : mo2020 
+Taken Time     : 5 Oclock
+Returning Time : 7 Oclock
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Date                            :02-Dec-20 12:02:17 PM
+ ------- Customer -------------
+Name        : hamed
+Age         : 44
+Gender      : Male
+Address     : hhs
+Tell        : u7778
+Passport No : n99000
+License No     : 63hddh 
+-------- Car ------------
+Car name       : infi 
+Car model      : md3 
+Taken Time     : 12 Oclock
+Returning Time : 14 Oclock
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

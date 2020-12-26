@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\Console\EVCpluse\EVCpluse\bin\Debug\EVCpluse.exe.config
+E:\semester two\c#\assignments\Console\EVCpluse\EVCpluse\bin\Debug\EVCpluse.exe
+E:\semester two\c#\assignments\Console\EVCpluse\EVCpluse\bin\Debug\EVCpluse.pdb
+E:\semester two\c#\assignments\Console\EVCpluse\EVCpluse\obj\Debug\EVCpluse.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Console\EVCpluse\EVCpluse\obj\Debug\EVCpluse.exe
+E:\semester two\c#\assignments\Console\EVCpluse\EVCpluse\obj\Debug\EVCpluse.pdb

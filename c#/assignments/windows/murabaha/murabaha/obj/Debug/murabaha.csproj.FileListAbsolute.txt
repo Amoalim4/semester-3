@@ -1,0 +1,9 @@
+E:\semester two\c#\assignments\windows\murabaha\murabaha\bin\Debug\murabaha.exe.config
+E:\semester two\c#\assignments\windows\murabaha\murabaha\bin\Debug\murabaha.exe
+E:\semester two\c#\assignments\windows\murabaha\murabaha\bin\Debug\murabaha.pdb
+E:\semester two\c#\assignments\windows\murabaha\murabaha\obj\Debug\murabaha.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\windows\murabaha\murabaha\obj\Debug\murabaha.Form1.resources
+E:\semester two\c#\assignments\windows\murabaha\murabaha\obj\Debug\murabaha.Properties.Resources.resources
+E:\semester two\c#\assignments\windows\murabaha\murabaha\obj\Debug\murabaha.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\windows\murabaha\murabaha\obj\Debug\murabaha.exe
+E:\semester two\c#\assignments\windows\murabaha\murabaha\obj\Debug\murabaha.pdb

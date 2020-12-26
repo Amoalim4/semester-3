@@ -1,0 +1,12 @@
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\bin\Debug\Assignment-5 login menu.exe.config
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\bin\Debug\Assignment-5 login menu.exe
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\bin\Debug\Assignment-5 login menu.pdb
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment-5 login menu.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment_5_login_menu.Properties.Resources.resources
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment-5 login menu.csproj.GenerateResource.Cache
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment-5 login menu.exe
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment-5 login menu.pdb
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment_5_login_menu.Customers.resources
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment_5_login_menu.frmmain.resources
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment_5_login_menu.frmcustomerlist.resources
+E:\semester two\c#\assignments\Assignment-5 login menu\Assignment-5 login menu\obj\Debug\Assignment_5_login_menu.frmnewcustomer.resources

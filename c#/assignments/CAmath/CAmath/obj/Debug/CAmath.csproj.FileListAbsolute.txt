@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\CAmath\CAmath\bin\Debug\CAmath.exe.config
+E:\semester two\c#\assignments\CAmath\CAmath\bin\Debug\CAmath.exe
+E:\semester two\c#\assignments\CAmath\CAmath\bin\Debug\CAmath.pdb
+E:\semester two\c#\assignments\CAmath\CAmath\obj\Debug\CAmath.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\CAmath\CAmath\obj\Debug\CAmath.exe
+E:\semester two\c#\assignments\CAmath\CAmath\obj\Debug\CAmath.pdb

@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\Console\account\account\bin\Debug\account.exe.config
+E:\semester two\c#\assignments\Console\account\account\bin\Debug\account.exe
+E:\semester two\c#\assignments\Console\account\account\bin\Debug\account.pdb
+E:\semester two\c#\assignments\Console\account\account\obj\Debug\account.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Console\account\account\obj\Debug\account.exe
+E:\semester two\c#\assignments\Console\account\account\obj\Debug\account.pdb

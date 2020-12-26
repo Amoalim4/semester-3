@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\Console\Bukaan\Bukaan\bin\Debug\Bukaan.exe.config
+E:\semester two\c#\assignments\Console\Bukaan\Bukaan\bin\Debug\Bukaan.exe
+E:\semester two\c#\assignments\Console\Bukaan\Bukaan\bin\Debug\Bukaan.pdb
+E:\semester two\c#\assignments\Console\Bukaan\Bukaan\obj\Debug\Bukaan.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Console\Bukaan\Bukaan\obj\Debug\Bukaan.exe
+E:\semester two\c#\assignments\Console\Bukaan\Bukaan\obj\Debug\Bukaan.pdb

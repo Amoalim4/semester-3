@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\Console\Interfacelesson\Interfacelesson\bin\Debug\Interfacelesson.exe.config
+E:\semester two\c#\assignments\Console\Interfacelesson\Interfacelesson\bin\Debug\Interfacelesson.exe
+E:\semester two\c#\assignments\Console\Interfacelesson\Interfacelesson\bin\Debug\Interfacelesson.pdb
+E:\semester two\c#\assignments\Console\Interfacelesson\Interfacelesson\obj\Debug\Interfacelesson.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Console\Interfacelesson\Interfacelesson\obj\Debug\Interfacelesson.exe
+E:\semester two\c#\assignments\Console\Interfacelesson\Interfacelesson\obj\Debug\Interfacelesson.pdb

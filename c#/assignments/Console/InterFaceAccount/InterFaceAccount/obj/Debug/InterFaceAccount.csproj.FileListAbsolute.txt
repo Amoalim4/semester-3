@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\Console\InterFaceAccount\InterFaceAccount\bin\Debug\InterFaceAccount.exe.config
+E:\semester two\c#\assignments\Console\InterFaceAccount\InterFaceAccount\bin\Debug\InterFaceAccount.exe
+E:\semester two\c#\assignments\Console\InterFaceAccount\InterFaceAccount\bin\Debug\InterFaceAccount.pdb
+E:\semester two\c#\assignments\Console\InterFaceAccount\InterFaceAccount\obj\Debug\InterFaceAccount.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\Console\InterFaceAccount\InterFaceAccount\obj\Debug\InterFaceAccount.exe
+E:\semester two\c#\assignments\Console\InterFaceAccount\InterFaceAccount\obj\Debug\InterFaceAccount.pdb

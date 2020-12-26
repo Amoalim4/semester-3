@@ -1,0 +1,6 @@
+E:\semester two\c#\assignments\howOldareyou\howOldareyou\bin\Debug\howOldareyou.exe.config
+E:\semester two\c#\assignments\howOldareyou\howOldareyou\bin\Debug\howOldareyou.exe
+E:\semester two\c#\assignments\howOldareyou\howOldareyou\bin\Debug\howOldareyou.pdb
+E:\semester two\c#\assignments\howOldareyou\howOldareyou\obj\Debug\howOldareyou.csprojResolveAssemblyReference.cache
+E:\semester two\c#\assignments\howOldareyou\howOldareyou\obj\Debug\howOldareyou.exe
+E:\semester two\c#\assignments\howOldareyou\howOldareyou\obj\Debug\howOldareyou.pdb
