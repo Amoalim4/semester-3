@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+.top{
+    position: absolute;
+    margin: 190px 10px 70px 590px;
+    border-radius: 90%;
+    padding: 50px;
+     background-color:rgba(255, 0, 0, 0.548); 
+    width: 500px; height: 500px;
+    
+}
+
+.middle{
+    
+    
+    padding: 50px;
+    border-radius: 90%;
+    background-color:rgba(0, 0, 255, 0.555); 
+    width: 400px; height: 400px;
+}
+
+.bottom{
+    
+    border-radius: 90%;
+    padding: 50px;
+     background-color:rgba(0, 128, 0, 0.548); 
+    width: 300px; height: 300px;
+}
+
+.xbottom{
+    
+    border-radius: 90%;
+    padding: 50px;
+     background-color:rgba(208, 255, 0, 0.493); 
+    width: 200px; height: 200px;
+}
+.top2{
+    position: absolute;
+    margin: 190px 10px 70px 80px;
+    border-radius: 90%;
+    padding: 50px;
+     background-color:rgba(255, 0, 0, 0.5); 
+    width: 500px; height: 500px;
+    
+}
+
+.middle2{
+    
+    
+    padding: 50px;
+    border-radius: 90%;
+    background-color:rgba(0, 0, 255, 0.521); 
+    width: 400px; height: 400px;
+}
+
+.bottom2{
+    
+    border-radius: 90%;
+    padding: 50px;
+     background-color:rgba(0, 128, 0, 0.466); 
+    width: 300px; height: 300px;
+}
+
+.xbottom2{
+    
+    border-radius: 90%;
+    padding: 50px;
+     background-color:rgba(208, 255, 0, 0.507); 
+    width: 200px; height: 200px;
+}
+
+
+
+
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/* p{
+    position: absolute;
+    border-radius: 90%;
+    padding: 50px;
+     background-color:red; 
+    width: 500px; height: 500px;
+    
+}
+
+h1{
+    
+    
+    padding: 50px;
+    border-radius: 90%;
+    background-color:blue; 
+    width: 400px; height: 400px;
+}
+
+h2{
+    
+    border-radius: 90%;
+    padding: 50px;
+     background-color:green; 
+    width: 300px; height: 300px;
+} */
+

@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(243, 228, 209); 
+}
+.frm{
+    border: 1px solid;
+    width: 400px;
+    height: 350px;
+    margin-top: 190px;
+    padding: 30px;
+    position: absolute;
+    background-color:rgb(233, 225, 225);
+    left: 30%;
+}
+input[type="submit"]{
+    margin-left:230px;
+    margin-top: 10px;
+    background-color: rgb(17, 93, 235);
+    width: 100px;
+    height: 30px;
+}
+input[type="email"]{
+    padding: 7px;
+   
+}
+input[type="password"]{
+    padding: 7px;
+   
+}
+
+   
+
+h1{
+    margin-right: 30px;
+}
+a{
+    text-decoration: none;
+}

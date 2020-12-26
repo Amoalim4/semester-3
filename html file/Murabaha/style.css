@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.number{
+    width: 100px;
+    text-align: right;
+}
+body{
+    background-color: darkcyan;
+}
+#btn-submit{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(12, 240, 31);
+    
+    margin-left: 80%;
+    clear: both;
+}
+.box{
+    width: 650px;
+    height:100%;
+    background-color: darkgoldenrod;
+    font-size: 18px;
+    margin-left: 20%;
+    padding: 10px ;
+    margin-top:50px ;
+}
+.box input[type="text"],input[type="number"]{
+    margin: 10px;
+    height: 25px;
+}
+
+#period{
+    width: 100px;
+}
+form{
+    border: 3px solid rgba(83, 255, 3, 0.815);
+}
+select{
+    margin: 10px;
+}

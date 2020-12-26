@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(#7d808f,#c9cee0);
+}
+header{
+    
+    font-size: 30px;
+    background-image: linear-gradient(#424551,#424551);
+    width: 100%;
+    height: 140px;
+}
+header h1{
+    padding: 25px;
+    color: rgb(211, 158, 12);
+}
+nav{
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    margin: 15px;
+    text-transform: uppercase;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    background-color: #7d808f;
+ 
+    height: 35px;
+}
+nav a{
+    margin-top: 10px;
+    padding: 20px;
+}
+footer{
+    margin-top: 600px;
+    bottom: 0;
+    width: 100%;
+    height: 120px;
+    background-image: linear-gradient(#2e3552,#93a0d6);
+}
+footer h2{
+    color: rgba(255, 169, 9, 0.678);
+    padding: 40px;
+    text-align: center;
+}
+/* ////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* ///////////////////////////////////for Contect Me Only/////////////////////////////////////////// */
+
+.form{
+    margin-top: 15px;
+    box-sizing: border-box;
+    width: 400px;
+    background-color: #1d1d2013;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: fit-content;
+    padding: 20px;
+}
+.form h1{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+input[ type="text"]{
+    margin: 5px;
+    padding: 10px;
+    background: none;
+    border: 1px solid greenyellow;
+    color: white;
+    border-radius: 90px;
+    outline: none;
+}
+input[ type="text"]:focus,:focus{
+    border: 1px solid rgba(53, 207, 228, 0.877);
+    width: 280px;
+}
+input[ type="submit"]{
+    margin: 5px;
+    padding: 10px;
+    margin-left: 115px;
+    background: none;
+    border: 1px solid greenyellow;
+    color: white;
+    border-radius: 90px;
+    font-weight: bold;
+    outline: none;
+}
+    
+    input[ type="submit"]:hover {
+        background-color: rgba(53, 207, 228, 0.877);
+        }
+
+        /*///////////////////////////////////////  end of contect me///////////////////////////// */
